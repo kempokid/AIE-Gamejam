@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7febcd0aa5af46143a79391d6eb5cf68, type: 3}
+  m_Name: Level3Conversation
+  m_EditorClassIdentifier: 
+  textStrings:
+  - DialougeText: 'Roberto: Ah, I see the patrol bots are active'
+    SpokenLine: {fileID: 0}
+    EndWaitTime: 3
+  - DialougeText: 'Roberto: They''ll chase us down if they see us, but I feel like
+      you''re probably stronger than them , Frank.'
+    SpokenLine: {fileID: 0}
+    EndWaitTime: 5
+  - DialougeText: 'Frank: I''ll see what I can do, though strength won''t be enough
+      if one of them manages to touch me directly'
+    SpokenLine: {fileID: 0}
+    EndWaitTime: 3

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7febcd0aa5af46143a79391d6eb5cf68, type: 3}
+  m_Name: Level4Start
+  m_EditorClassIdentifier: 
+  textStrings:
+  - DialougeText: 'Roberto: Oh, this isn''t good, there''s the elite guard bots'
+    SpokenLine: {fileID: 0}
+    EndWaitTime: 4
+  - DialougeText: 'Roberto: They don''t even patrol, they just stand and stare with
+      their long range vision'
+    SpokenLine: {fileID: 0}
+    EndWaitTime: 4
+  - DialougeText: 'Frank: Looks like we can''t just sneak past them all this time.'
+    SpokenLine: {fileID: 0}
+    EndWaitTime: 4
+  - DialougeText: 'Frank: They might be relentless, but they''re also reckless, maybe
+      we could use that to our advantage.'
+    SpokenLine: {fileID: 0}
+    EndWaitTime: 4
